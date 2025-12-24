@@ -1,7 +1,7 @@
 {
   "name": "Error Code Lookup",
   "short_name": "ErrorCodes",
-  "start_url": "index.html",
+  "start_url": "./index.html",
   "display": "standalone",
   "background_color": "#ffffff",
   "theme_color": "#2196f3",
@@ -16,5 +16,6 @@
       "sizes": "512x512",
       "type": "image/png"
     }
-  ]
+  ],
+  "description": "A PWA for searching error codes with offline support."
 }
